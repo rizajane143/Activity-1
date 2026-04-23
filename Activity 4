@@ -1,0 +1,7 @@
+point = (10, 20)
+
+# Unpacking
+x, y = point
+
+print("x =", x)  # 10
+print("y =", y)  # 20
