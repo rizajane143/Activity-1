@@ -1,0 +1,6 @@
+t1 = (1, 2)
+t2 = (3, 4)
+
+# Combine and repeat twice
+result = (t1 + t2) * 2
+print(result)
