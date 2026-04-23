@@ -1,0 +1,5 @@
+colors = ("yellow", "pink", "blue")
+
+# First and last item
+print(colors[0])   # yellow
+print(colors[-1])  # blue
